@@ -1,7 +1,7 @@
-class NumMatrix {
+class Matrices {
 public:
     vector<vector<int>> mat;
-    NumMatrix(vector<vector<int>>& matrix) {
+    Matrices(vector<vector<int>>& matrix) {
         mat = matrix;
     }
     
