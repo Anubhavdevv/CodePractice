@@ -4,7 +4,7 @@ vector<int> solve(int n, vector<int> arr){
   vector <int> nums;
   for(int i=0;i<n;i++){
           if(arr[i]!=arr[i+1]){
-              cout << arr[i] << " ";
+              nums.push_back(arr[i]);
           }
   }
   return nums;
