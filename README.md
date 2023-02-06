@@ -1,1 +1,1 @@
-Practice Questions on LeetCode, Codchef, GFG, Hackerrank 
+Questions Practice and Solutions on LeetCode, Codchef, GFG, Hackerrank 
